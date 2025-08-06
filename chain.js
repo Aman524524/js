@@ -9,4 +9,5 @@ let arr=a.filter(function(n){
 }).map(function(n){
     return n.age});
 
+    
     console.log(arr);
